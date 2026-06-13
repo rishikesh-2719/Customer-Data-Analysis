@@ -158,11 +158,3 @@ This project demonstrates:
 
 ---
 
-## Author
-
-**Your Name**
-
-Aspiring Data Analyst | SQL | Python | Power BI | Data Visualization
-
-LinkedIn: Add your profile link  
-GitHub: Add your GitHub profile link
